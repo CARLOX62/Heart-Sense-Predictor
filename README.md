@@ -2,7 +2,7 @@
 
 **LifeLine** is an intelligent web application that predicts the risk of heart failure based on patient health metrics. Built with Flask and powered by machine learning, it helps healthcare professionals make faster and more informed decisions.
 
-![LifeLine Screenshot](https://raw.githubusercontent.com/yourusername/lifeline-heart-failure/main/assets/screenshot.png) <!-- Replace with your actual image URL -->
+![LifeLine Screenshot](https://github.com/CARLOX62/Heart-Sense-Predictor/blob/main/Screenshot%20(115).png)
 
 ## 🔗 Live Demo
 
